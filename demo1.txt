@@ -1,0 +1,2 @@
+muzammil
+git push --> use cammand for push file from local repo (computer) to remot repo.
